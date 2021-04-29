@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Testing changes in main page."
+title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
