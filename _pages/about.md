@@ -21,4 +21,4 @@ News
 
 - **February 2021:**  Released a new [paper](https://arxiv.org/abs/2102.09972) about the implicit regularization in
   tensor factorization.
-- **October 2020:** Joined [Nadav Cohen's](https://www.cohennadav.com) research group.
+- **October 2020:** Joined [Nadav Cohen](https://www.cohennadav.com)'s research group.
