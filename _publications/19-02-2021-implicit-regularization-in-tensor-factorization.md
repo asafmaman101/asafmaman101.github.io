@@ -5,7 +5,7 @@ permalink: /publication/19-02-2021-implicit-regularization-in-tensor-factorizati
 excerpt: 
 authors: Noam Razin*, <b>Asaf Maman*</b>, Nadav Cohen
 date: 19-02-2021
-venue: 
+venue: ICML 2021
 preprint: arXiv preprint arXiv:2102.09972
 paperurl: https://arxiv.org/pdf/2102.09972
 citation: 
