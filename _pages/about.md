@@ -12,7 +12,7 @@ redirect_from:
 Pursuing a master's degree at Tel Aviv University under the supervision of [Nadav Cohen](https://www.cohennadav.com).
 
 My research interests include the theory of
-Deep Learning, also interested in applications of Machine Learning models, and software development.
+Deep Learning, also interested in applications of Machine Learning models, and programming.
 
 email: asafmaman (at) mail.tau.ac.il
 
