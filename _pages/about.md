@@ -20,7 +20,7 @@ email: asafmaman (at) mail.tau.ac.il
 
 News
 ======
-
+- **May 2022** [Implicit Regularization in Hierarchical Tensor Factorization and Deep Convolutional Neural Networks](https://arxiv.org/abs/2201.11729) accepted to ICML 2022.
 - **May 2021:** [Implicit Regularization in Tensor Factorization](https://arxiv.org/abs/2102.09972) accepted to ICML
   2021.
 - **February 2021:**  Released a new [paper](https://arxiv.org/abs/2102.09972) about the implicit regularization in
