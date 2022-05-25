@@ -42,7 +42,7 @@ International Conference on Machine Learning (ICML), 2022
 **Implicit Regularization in Tensor Factorization**  
 Noam Razin*, <b>Asaf Maman*</b>, Nadav Cohen  
 International Conference on Machine Learning (ICML), 2021  
-*Equal contribution
+*Equal contribution  
 [[paper](https://arxiv.org/abs/2102.09972), 
 [code](https://github.com/noamrazin/imp_reg_in_tf)]
 
