@@ -31,12 +31,21 @@ News
 
 Publications
 ======
+**Implicit Regularization in Hierarchical Tensor Factorization and Deep Convolutional Neural Networks**  
+Noam Razin, <b>Asaf Maman</b>, Nadav Cohen  
+International Conference on Machine Learning (ICML), 2022  
+[[paper](https://arxiv.org/abs/2201.11729), 
+[code](https://github.com/asafmaman101/imp_reg_htf)]
+
+&nbsp;
+
 **Implicit Regularization in Tensor Factorization**  
 Noam Razin*, <b>Asaf Maman*</b>, Nadav Cohen  
 International Conference on Machine Learning (ICML), 2021  
+*Equal contribution
 [[paper](https://arxiv.org/abs/2102.09972), 
-[code](https://github.com/noamrazin/imp_reg_in_tf), 
-[poster](./files/imp_reg_tf_icml_2021_poster.pdf)]
+[code](https://github.com/noamrazin/imp_reg_in_tf)]
+
 
 &nbsp;
 
