@@ -28,3 +28,4 @@ and demonstrate its ability to improve performance of modern convolutional netwo
 in defiance of conventional wisdom by which architectural changes are needed.
 Our work highlights the potential of enhancing neural networks via theoretical analysis of their implicit regularization.
 
+
