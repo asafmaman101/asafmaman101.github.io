@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Computer Vision and Deep Learning researcher.
+MSc in Computer Science from Tel Aviv University under
+the supervision of [Nadav Cohen](https://www.cohennadav.com).
 
-Pursuing a master's degree at Tel Aviv University under the supervision of [Nadav Cohen](https://www.cohennadav.com).
-
-My research interests include the theory of
-Deep Learning, also interested in applications of Machine Learning models, and programming.
+My research interests include generalization of
+Deep Neural Networks, applications to Computer Vision tasks.
+I'm also interested in other fields and applications of Machine Learning
+(NLP, classical ML methods, NLP, etc.).
 
 email: asafmaman (at) mail.tau.ac.il
 
